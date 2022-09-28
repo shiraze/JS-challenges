@@ -6,6 +6,10 @@ export class Book {
     this.numCopies = numCopies;
   }
 
+  get availability() {
+    return this.getAvailability();
+  }
+
   getAvailability() {
     return !this.numCopies
       ? "out of stock"
