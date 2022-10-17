@@ -1,3 +1,5 @@
+[![Run tests](https://github.com/shiraze/JS-challenges/actions/workflows/node.js.yaml/badge.svg)](https://github.com/shiraze/JS-challenges/actions/workflows/node.js.yaml)
+
 # How this repository was created
 
 Initialise repository to create an "npm package"; Avoid creation questionnaire:
