@@ -28,6 +28,8 @@ The `AvailableBooks` and `Movies` directories show contain some sample classes a
 
 `npm install` : install necessary packages
 
-`npm test` : run tests
+`npm test` : run tests, in watch mode
+
+`npm run ci-test` : run all tests and stop; suitable for CI
 
 `npm run cover` : generate coverage report

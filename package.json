@@ -5,6 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest --watch",
+    "ci-test": "jest",
     "cover": "jest --coverage --watchAll"
   },
   "keywords": [],
