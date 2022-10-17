@@ -1,4 +1,4 @@
-# Set up
+# How this repository was created
 
 Initialise repository to create an "npm package"; Avoid creation questionnaire:
 
@@ -20,8 +20,14 @@ npm install --save-dev @babel/preset-env @babel/core @babel/cli
 
 VS Code workspace settings saved in repository - to make sure files are always correctly formatted.
 
+## Contents
+
+The `AvailableBooks` and `Movies` directories show contain some sample classes and tests
+
 ## Commands
+
+`npm install` : install necessary packages
 
 `npm test` : run tests
 
-`npm run cover`: generate coverage report
+`npm run cover` : generate coverage report
